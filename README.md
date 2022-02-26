@@ -20,6 +20,11 @@
 <a href="https://www.python.org/"><img src="https://img.icons8.com/nolan/64/python.png"/></a>
 <a href="https://www.cprogramming.com/"><img src="https://img.icons8.com/nolan/64/c.png"/></a>
 <a href="https://www.cprogramming.com/"><img src="https://img.icons8.com/nolan/64/c-plus-plus.png"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="62px"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.icons8.com/color/48/000000/css3.png" width="62px"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="62px"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/nolan/64/visual-studio.png"/></a>
+<a href="https://www.sublimetext.com/"><img src="https://img.icons8.com/nolan/64/sublime-text-new-logo.png"/></a>
+<a href="https://git-scm.com/"><img src="https://img.icons8.com/nolan/64/git.png"/></a> 
+<a href="https://github.com/"><img src="https://img.icons8.com/nolan/64/github.png"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="64px"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.icons8.com/color/48/000000/css3.png" width="64px"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="64px"/></a>
+<a href="https://alan.app/" target="_blank"> <img src="https://alan.app/brand_assets/icon/grayscale/alan-logo-icon-grayscale.png" width="64px"/> </a>
