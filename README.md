@@ -55,8 +55,8 @@
 
 ## <img src="https://img.icons8.com/nolan/64/share-2.png" width="25"/> **Connect with me:**
 <p align="left">
-<a href="https://www.instagram.com/_.jaisarita._/"><img src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
-<a href="https://www.linkedin.com/in/jaisarita/"><img src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
+<a href="https://www.linkedin.com/in/jaisarita/"><img src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
+<a href="https://www.instagram.com/_.jaisarita._/"><img src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
 <a href="https://www.facebook.com/Ashmit.JaiSarita.Gupta.pvt">
 <img src="https://img.icons8.com/nolan/64/facebook.png"/></a>
 </p>
