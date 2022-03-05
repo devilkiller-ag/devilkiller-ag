@@ -4,7 +4,7 @@
 
 <div align="center">
 <h1> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40">, I'm Ashmit JaiSarita Gupta 
-<h2>I'm a ardent programmer programmer who is constantly learning new skills!</h2>
+<h2>I'm a ardent programmer who is constantly learning new skills!</h2>
 </div>
 <hr>
 
