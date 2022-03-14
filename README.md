@@ -37,15 +37,24 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devilkiller-ag&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+<!-- Source: (https://github.com/DenverCoder1/github-readme-streak-stats) -->
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devilkiller-ag&theme=react" alt="GitHub Streak">
+</p>
 <br>
 
 ## <img src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/50/000000/external-stats-social-media-xnimrodx-lineal-gradient-xnimrodx.png" width="25"/> **My Github stats:**
 
-[![Ashmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=devilkiller-ag&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Source: (https://github.com/anuraghazra/github-readme-stats) -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=devilkiller-ag&count_private=true&show_icons=true&theme=github_dark" alt="Ashmit's GitHub stats">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devilkiller-ag&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Source: (https://github.com/anuraghazra/github-readme-stats) -->
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilkiller-ag&langs_count=8)" alt="Top Langs">
+</p>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
