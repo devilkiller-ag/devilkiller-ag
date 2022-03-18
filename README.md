@@ -1,11 +1,13 @@
 <p align="center">
-    <img src="./coding.svg" alt="Ashmit JaiSarita Gupta" width="50%">
+    <img src="./assets/coding.svg" alt="Ashmit JaiSarita Gupta" width="50%">
 </p>
 
 <div align="center">
 <h1> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40">, I'm Ashmit JaiSarita Gupta 
 <h2>I'm a ardent programmer who is constantly learning new skills!</h2>
 </div>
+<hr>
+<canvas></canvas>
 <hr>
 
 ## <img src="https://img.icons8.com/ultraviolet/40/000000/winner.png" width="25"/> **About Me**
