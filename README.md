@@ -36,7 +36,7 @@
 <a href="https://alan.app/" target="_blank"> <img src="https://alan.app/brand_assets/icon/grayscale/alan-logo-icon-grayscale.png" width="64px"/> </a>
 <a href="https://qiskit.org/"><img src="https://qiskit.org/images/qiskit-logo.png" width="54px"/></a>
 <!-- <a href="https://www.xanadu.ai/"><img src="./assets/xanadu-icon.png"></a> -->
-<a href="https://pennylane.ai/"><img src="./assets/pennylane.png"></a>
+<a href="https://pennylane.ai/"><img src="./assets/pennylane_thin.png"></a>
 </p>
 
 <br>
