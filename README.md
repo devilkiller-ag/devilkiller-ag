@@ -7,11 +7,6 @@
 <h2>I'm a ardent programmer who is constantly learning new skills!</h2>
 </div>
 <hr>
-<div align="center">
-    <h2>Hacktoberfest2022</h2>
-    [![@devilkillerag's Holopin board](https://holopin.me/devilkillerag)](https://holopin.io/@devilkillerag)
-</div>
-<hr>
 
 ## <img src="https://img.icons8.com/ultraviolet/40/000000/winner.png" width="25"/> **About Me**
 - <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-telescope-back-to-school-vitaliy-gorbachev-blue-vitaly-gorbachev.png" width="15"/> I'm currently exploring Quantum Computing.
