@@ -7,7 +7,10 @@
 <h2>I'm a ardent programmer who is constantly learning new skills!</h2>
 </div>
 <hr>
-<canvas></canvas>
+<div align="center">
+    <h2>Hacktoberfest2022</h2>
+    [![@devilkillerag's Holopin board](https://holopin.me/devilkillerag)](https://holopin.io/@devilkillerag)
+</div>
 <hr>
 
 ## <img src="https://img.icons8.com/ultraviolet/40/000000/winner.png" width="25"/> **About Me**
