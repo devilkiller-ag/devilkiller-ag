@@ -9,7 +9,7 @@
 <hr>
 
 ## <img src="https://img.icons8.com/ultraviolet/40/000000/winner.png" width="25"/> **About Me**
-- <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-telescope-back-to-school-vitaliy-gorbachev-blue-vitaly-gorbachev.png" width="15"/> I'm currently exploring Quantum Computing and building simulation of Quantum Walk on Graphene Sheet using Qiskit, Django and react-three-fiber.
+- <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-telescope-back-to-school-vitaliy-gorbachev-blue-vitaly-gorbachev.png" width="15"/> I'm currently working on Image Processing using Quantum Computing.
 - <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-plant-gardening-vitaliy-gorbachev-blue-vitaly-gorbachev.png" width="15"/> I'm currently learning **MERN Stack Web Development and Three.js**.
 - <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-handshake-support-vitaliy-gorbachev-blue-vitaly-gorbachev.png" width="15"/> I’m looking for mentorship to work on **OpenSource Projects** related to Quantum Computing Software or MERN stack project.
 - <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-mail-mail-vitaliy-gorbachev-blue-vitaly-gorbachev-9.png" width="15"/> How to reach me ***ashmitgupta.social@gmail.com***
