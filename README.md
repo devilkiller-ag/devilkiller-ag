@@ -1,10 +1,11 @@
-<p align="center">
-    <a href="https://jaisarita.vercel.app" target="_blank"><img src="./assets/PortfolioAG.png" alt="Ashmit JaiSarita Gupta" width="80%"></a>
-</p>
+<div align="center">
+    <a href="https://jaisarita.vercel.app" target="_blank"><img src="./assets/coding.svg" alt="Ashmit JaiSarita Gupta" width="80%"></a>
+    
+</div>
 
 <div align="center">
 <h1> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40">, I'm Ashmit JaiSarita Gupta 
-<h2>I'm a ardent programmer who is constantly learning new skills!</h2>
+<h2>I'm an ardent programmer who is constantly learning new skills!</h2>
 </div>
 <hr>
 
