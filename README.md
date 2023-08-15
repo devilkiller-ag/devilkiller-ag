@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/coding.svg" alt="Ashmit JaiSarita Gupta" width="50%">
+    <a href="https://jaisarita.vercel.app" target="_blank"><img src="./assets/PortfolioAG.png" alt="Ashmit JaiSarita Gupta" width="80%"></a>
 </p>
 
 <div align="center">
