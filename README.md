@@ -2,16 +2,12 @@
     <a href="https://jaisarita.vercel.app" target="blank"><img src="./assets/ag_portfolio.png" alt="Ashmit JaiSarita Gupta" width="100%"></a>
 </div>
 
-<div align="center">
-<h1> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40">, I'm Ashmit JaiSarita Gupta 
-<h2>I'm an ardent programmer who is constantly learning new skills!</h2>
-</div>
 <hr>
 
 ## <img src="https://img.icons8.com/ultraviolet/40/000000/winner.png" width="25"/> **About Me**
-- <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-telescope-back-to-school-vitaliy-gorbachev-blue-vitaly-gorbachev.png" width="15"/> I'm currently working on Image Processing using Quantum Computing.
-- <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-plant-gardening-vitaliy-gorbachev-blue-vitaly-gorbachev.png" width="15"/> I'm currently learning **MERN Stack Web Development and Three.js**.
-- <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-handshake-support-vitaliy-gorbachev-blue-vitaly-gorbachev.png" width="15"/> I’m looking for mentorship to work on **OpenSource Projects** related to Quantum Computing Software or MERN stack project.
+- <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-telescope-back-to-school-vitaliy-gorbachev-blue-vitaly-gorbachev.png" width="15"/> I'm currently working on QUBO Relaxation Parameter Optimisation using Learning Surrogate Solver (QROSS).
+- <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-plant-gardening-vitaliy-gorbachev-blue-vitaly-gorbachev.png" width="15"/> I'm constantly uprading my skills in **Full Stack Web Development** and **Quantum Computing**..
+- <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-handshake-support-vitaliy-gorbachev-blue-vitaly-gorbachev.png" width="15"/> I’m looking for mentorship to work on **OpenSource Projects** related to Quantum Computing Software or Full stack project.
 - <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-mail-mail-vitaliy-gorbachev-blue-vitaly-gorbachev-9.png" width="15"/> How to reach me ***ashmitgupta.social@gmail.com***
 - <img src="https://img.icons8.com/external-sketchy-juicy-fish/60/000000/external-cool-emoji-sketchy-sketchy-juicy-fish.png" width="15"/> In my spare time, you can find me at Erangel.
 
