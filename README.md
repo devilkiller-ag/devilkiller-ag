@@ -3,7 +3,7 @@
 <hr>
 
 ## <img src="https://img.icons8.com/ultraviolet/40/000000/winner.png" width="25"/> **About Me**
-- <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-telescope-back-to-school-vitaliy-gorbachev-blue-vitaly-gorbachev.png" width="15"/> I'm currently working on the implementation Hybrid Quantum Neural Network for the classification of MNIST Dataset. I am actively contributing to the Async API Initiative and Uptane Project.
+- <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-telescope-back-to-school-vitaliy-gorbachev-blue-vitaly-gorbachev.png" width="15"/> I'm currently working on the implementation of Hybrid Quantum Neural Network for the classification of MNIST Dataset. I am actively contributing to the Async API Initiative and Uptane Project.
 - <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-plant-gardening-vitaliy-gorbachev-blue-vitaly-gorbachev.png" width="15"/> I'm constantly uprading my skills in **Full Stack Web Development** and **Quantum Computing**..
 - <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-handshake-support-vitaliy-gorbachev-blue-vitaly-gorbachev.png" width="15"/> I’m looking for mentorship to work on **OpenSource Projects** related to Quantum Computing Software or Full stack project.
 - <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-mail-mail-vitaliy-gorbachev-blue-vitaly-gorbachev-9.png" width="15"/> How to reach me: Visit my **[website](https://jaisarita.vercel.app/)** or mail me at  ***ashmitgupta.social@gmail.com***.
