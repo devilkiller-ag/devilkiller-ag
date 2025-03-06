@@ -1,4 +1,4 @@
-[![AshmitJaiSaritaGupta](https://github.com/devilkiller-ag/devilkiller-ag/assets/43639341/b31566de-ba09-4f47-a7a6-2ac1060e7ea3)](https://jaisarita.vercel.app/)
+[![AshmitJaiSaritaGupta](https://github.com/devilkiller-ag/devilkiller-ag/assets/43639341/b31566de-ba09-4f47-a7a6-2ac1060e7ea3)](https://ashmit.dev)
 
 <hr>
 
@@ -6,7 +6,7 @@
 - <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-telescope-back-to-school-vitaliy-gorbachev-blue-vitaly-gorbachev.png" width="15"/> I solve business problems which involve software and quantum technology.
 - <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-plant-gardening-vitaliy-gorbachev-blue-vitaly-gorbachev.png" width="15"/> I'm constantly uprading my skills in **Full Stack Web Development** and **Quantum Computing**..
 - <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-handshake-support-vitaliy-gorbachev-blue-vitaly-gorbachev.png" width="15"/> I am actively contributing to the Async API Initiative and Uptane Project.
-- <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-mail-mail-vitaliy-gorbachev-blue-vitaly-gorbachev-9.png" width="15"/> How to reach me: Visit my **[website](https://jaisarita.vercel.app/)** or mail me at  ***ashmitgupta.social@gmail.com***.
+- <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-mail-mail-vitaliy-gorbachev-blue-vitaly-gorbachev-9.png" width="15"/> How to reach me: Visit my **[website](https://ashmit.dev)** or mail me at  ***ashmitgupta.social@gmail.com***.
 - <img src="https://img.icons8.com/external-sketchy-juicy-fish/60/000000/external-cool-emoji-sketchy-sketchy-juicy-fish.png" width="15"/> In my spare time, you can find me at Erangel.
 
 <br>
